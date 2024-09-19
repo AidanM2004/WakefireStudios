@@ -1,0 +1,33 @@
+body{
+    
+   /*background-image: url(./Assets/images/NebulaTestForEshu.png);*/
+   background-color: black;
+}
+#Wrapper-Header{
+
+    position: relative;
+
+}
+
+.p{
+
+    color: white;
+}
+
+.header{
+
+    text-align:left;
+    color: white;
+}
+.header2{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin: 0 auto;
+    width: 100%;
+    height: 150px;
+}
+
+h1 {
+    
+    font-size: 2rem;
+  }
